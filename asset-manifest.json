@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eadojo/static/css/main.a235c2b5.chunk.css",
+    "main.js": "/eadojo/static/js/main.2673d2c4.chunk.js",
+    "main.js.map": "/eadojo/static/js/main.2673d2c4.chunk.js.map",
+    "runtime~main.js": "/eadojo/static/js/runtime~main.2074965e.js",
+    "runtime~main.js.map": "/eadojo/static/js/runtime~main.2074965e.js.map",
+    "static/js/2.e63bf961.chunk.js": "/eadojo/static/js/2.e63bf961.chunk.js",
+    "static/js/2.e63bf961.chunk.js.map": "/eadojo/static/js/2.e63bf961.chunk.js.map",
+    "index.html": "/eadojo/index.html",
+    "precache-manifest.4112977cff48d4f7c256600c62fb212d.js": "/eadojo/precache-manifest.4112977cff48d4f7c256600c62fb212d.js",
+    "service-worker.js": "/eadojo/service-worker.js",
+    "static/css/main.a235c2b5.chunk.css.map": "/eadojo/static/css/main.a235c2b5.chunk.css.map",
+    "static/media/desktop.png": "/eadojo/static/media/desktop.46914b93.png",
+    "static/media/dojo.jpg": "/eadojo/static/media/dojo.0dfe508c.jpg",
+    "static/media/hardwork.svg": "/eadojo/static/media/hardwork.e52e1704.svg",
+    "static/media/header.svg": "/eadojo/static/media/header.b8fa8c77.svg",
+    "static/media/login-bg.jpg": "/eadojo/static/media/login-bg.1d1ca354.jpg",
+    "static/media/main-bg.jpg": "/eadojo/static/media/main-bg.57a95d5c.jpg",
+    "static/media/main-bg2.jpg": "/eadojo/static/media/main-bg2.ae7cfd59.jpg",
+    "static/media/mobile.svg": "/eadojo/static/media/mobile.74b87597.svg",
+    "static/media/peopleUsingPc.svg": "/eadojo/static/media/peopleUsingPc.afbe99b7.svg",
+    "static/media/secondSectionImg.jpg": "/eadojo/static/media/secondSectionImg.7c7ecd0b.jpg",
+    "static/media/seo-segmentation.png": "/eadojo/static/media/seo-segmentation.b05830b9.png",
+    "static/media/student.svg": "/eadojo/static/media/student.39930bdb.svg"
+  }
+}
