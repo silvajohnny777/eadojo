@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f487c93531dffc9b07acfd3350b3b9b",
+    "revision": "71139c0f44dad143ae002df257ad51eb",
     "url": "/eadojo/index.html"
   },
   {
-    "revision": "42ba313615b7fbccb95b",
-    "url": "/eadojo/static/css/main.a235c2b5.chunk.css"
+    "revision": "da81126c1e80642c869f",
+    "url": "/eadojo/static/css/main.e10e1534.chunk.css"
   },
   {
-    "revision": "0ac0422001a4fce5cb97",
-    "url": "/eadojo/static/js/2.e63bf961.chunk.js"
+    "revision": "dcc596332fb9f81e7ea0",
+    "url": "/eadojo/static/js/2.a9c04cd2.chunk.js"
   },
   {
-    "revision": "42ba313615b7fbccb95b",
-    "url": "/eadojo/static/js/main.9aff5da5.chunk.js"
+    "revision": "da81126c1e80642c869f",
+    "url": "/eadojo/static/js/main.4fe1fcee.chunk.js"
   },
   {
-    "revision": "c1aea36e3df2924e7fc4",
-    "url": "/eadojo/static/js/runtime~main.2074965e.js"
+    "revision": "45329a70ec837dc2e0fb",
+    "url": "/eadojo/static/js/runtime~main.56e6157f.js"
   },
   {
     "revision": "46914b933157dded8d356975bb6bc476",
@@ -25,7 +25,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0dfe508cd06c6dc96d5847b02194036a",
-    "url": "/eadojo/static/media/dojo.0dfe508c.jpg"
+    "url": "/eadojo/static/media/dojo1.0dfe508c.jpg"
+  },
+  {
+    "revision": "ee81cc9937676631e78d3694e15e8688",
+    "url": "/eadojo/static/media/feature_1.ee81cc99.jpg"
+  },
+  {
+    "revision": "b41ebcc0df7eb6484755e98204a9cd50",
+    "url": "/eadojo/static/media/feature_2.b41ebcc0.jpg"
+  },
+  {
+    "revision": "1a15ff15d89310ad3e180d697ab362b5",
+    "url": "/eadojo/static/media/feature_3.1a15ff15.jpg"
+  },
+  {
+    "revision": "9779c8f505fdcc8ebee9dfb188e8312c",
+    "url": "/eadojo/static/media/feature_4.9779c8f5.jpg"
+  },
+  {
+    "revision": "4aa49a22e1c0f8d8a2d42ab273928365",
+    "url": "/eadojo/static/media/feature_5.4aa49a22.jpg"
   },
   {
     "revision": "e52e17043b4d2f8a5fdba2bff33812b6",
