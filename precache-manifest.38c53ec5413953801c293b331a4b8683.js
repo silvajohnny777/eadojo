@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fe8996bcc8c27f96984f057eabb03c1",
+    "revision": "ef4da0789ef6ed5e60652b73cc633dfc",
     "url": "/eadojo/index.html"
   },
   {
-    "revision": "37844cfdd6faa42b1f6c",
-    "url": "/eadojo/static/css/main.a1308646.chunk.css"
+    "revision": "e0612c41738ace4706fe",
+    "url": "/eadojo/static/css/main.c5b44b93.chunk.css"
   },
   {
     "revision": "dcc596332fb9f81e7ea0",
     "url": "/eadojo/static/js/2.a9c04cd2.chunk.js"
   },
   {
-    "revision": "37844cfdd6faa42b1f6c",
-    "url": "/eadojo/static/js/main.f632b46c.chunk.js"
+    "revision": "e0612c41738ace4706fe",
+    "url": "/eadojo/static/js/main.672e9c2b.chunk.js"
   },
   {
     "revision": "45329a70ec837dc2e0fb",
     "url": "/eadojo/static/js/runtime~main.56e6157f.js"
+  },
+  {
+    "revision": "f7612beb0f2ef206b942636b62b3d75a",
+    "url": "/eadojo/static/media/chat.f7612beb.png"
   },
   {
     "revision": "46914b933157dded8d356975bb6bc476",
