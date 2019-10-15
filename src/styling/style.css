@@ -6,7 +6,7 @@
 }
 
 .main-hero {
-    background-image: url('../images/main-bg.jpg');
+    background-image: url('https://www.dearservices.net/wp-content/uploads/2018/09/placeholder-1920x1080.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -56,7 +56,7 @@
 }
 
 .SecondSectionImage {
-    background-image: url('../images/secondSectionImg.jpg');
+    background-image: url('https://www.dearservices.net/wp-content/uploads/2018/09/placeholder-1920x1080.jpg');
     position: fixed;
     background-size: cover;
     border-radius: 5px;
@@ -84,8 +84,10 @@
 }
 
 .ThirdSectionButton {
+    margin-top: 5%;
     margin: 2%;
     width: 15%;
+    height: 100px;
 }
 
 img {
@@ -98,6 +100,15 @@ img {
     display: flex;    
 }
 
+.ThirdSectionButtonActive {
+    color: white;
+    background-color: #3c3347;
+}
+
+.ThirdSectionButtonActive:hover {
+    color: white;
+}
+
 .fourthSection {
     margin-top: 5%;
 }
@@ -107,12 +118,20 @@ img {
     max-width: 40%;
 }
 
+.fouthSectionNewLeft {
+    margin-left: 20%;
+}
+
 .fouthSectionMiddle {
     margin-top: 5%;
 }
 
 .fouthSectionRight {
     max-width: 20%;
+}
+
+.fouthSectionNewRight {
+    width: 80%;
 }
 
 .fourthSectionRightItem {
@@ -124,11 +143,47 @@ img {
 }
 
 .mail {
-    background-color: red;
+    background-color: #3c3347;
     color: white;
     height: 50px;
 }
 
-.fifthSection {
-    background-color: hsl(0, 0%, 96%);
+.button-chat {
+    display: flex;
+    justify-content: center;
+}
+
+.mailSection {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 40%;
+    font-size: 20px;
+}
+
+.mailenvelope {
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footercollum {
+    width: 100%;
+}
+
+.activeLi {
+    padding: 10px;
+    border-radius: 5px;
+    width: auto;
+    color: white;
+    background-color: #3c3347;
+    font-size: 20px;
+}
+
+.FeaturesDescription {
+    width: 95%;
 }

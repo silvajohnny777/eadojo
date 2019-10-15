@@ -11,7 +11,7 @@ import Login from './components/Login';
 function App() {
   return (
     <div className="App">
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           <Route path="/" component={mainSection} exact />

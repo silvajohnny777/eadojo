@@ -1,7 +1,8 @@
 import React from 'react';
 
 import ThirdSection from './ThirdSection';
-import FourthSection from './FourthSection'
+import FourthSection from './FourthSection';
+import FifthSection from './FifthSection';
 
     function mainSection(){
         return(
@@ -67,29 +68,24 @@ import FourthSection from './FourthSection'
 
                 <ThirdSection/>       
 
-                <FourthSection/>         
+                <FourthSection/>      
 
-                <section className="section fifthSection">
-                    <div className="container fifthContainer">
-                        <h1 className="title is-1 has-text-centered"><i className="fas fa-comments"></i> Do you need help?</h1><br/>
-                        <h2 className="subtitle is-4 has-text-centered">
-                            If you have any questions, we have an expert team that can help you. Ask something!
-                        </h2>
-                        <p className="buttons">
-                        <a className="button is-large is-warning">
-                            <span>Start Chat</span>
-                            <span className="icon">
-                            <i className="fas fa-chevron-right"></i>
-                            </span>
-                        </a></p>
-                    </div>
-                </section>
+                <FifthSection/>     
 
                 <section className="mail">
                     <div className="container mailSection">
-                        HELLO
+                    <i className="fas fa-envelope mailenvelope"></i>contact@eadojo.com
                     </div>
                 </section>
+
+                <footer className="footer">
+                    <div className="columns footercollum has-text-centered">
+                        <div className="column">Auto</div>
+                        <div className="column">Auto</div>
+                        <div className="column">Auto</div>
+                        <div className="column">Auto</div>
+                    </div>
+                </footer>
 
             </div>
         )
