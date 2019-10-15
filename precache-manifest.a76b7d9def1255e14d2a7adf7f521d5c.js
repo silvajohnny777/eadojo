@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99ba9094b476b4378bd694d14655c9fe",
+    "revision": "6138dd24dbdf09a7149e1ce9990f3627",
     "url": "/eadojo/index.html"
   },
   {
-    "revision": "d00c89c1ad44f69f8b83",
+    "revision": "247e4b564b2835bad8da",
     "url": "/eadojo/static/css/main.98c59353.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eadojo/static/js/2.4e581d04.chunk.js"
   },
   {
-    "revision": "d00c89c1ad44f69f8b83",
-    "url": "/eadojo/static/js/main.ff40638c.chunk.js"
+    "revision": "247e4b564b2835bad8da",
+    "url": "/eadojo/static/js/main.9ef36153.chunk.js"
   },
   {
     "revision": "45329a70ec837dc2e0fb",
