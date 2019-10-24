@@ -102,7 +102,7 @@ import React from 'react';
 
             return (
                 <div>             
-                    <section className="hero is-small is-bold">
+                    <section className="hero is-medium is-bold">
                         <div className="hero-body">
                             <div className="columns is-vcentered">
                             <div className="column is-2"></div>
@@ -122,7 +122,7 @@ import React from 'react';
                         </div>
                     </section>
 
-                    <section className="hero is-small is-bold">
+                    <section className="hero is-medium is-bold">
                         <div className="hero-body">
                             <div className="columns is-vcentered">
                             <div className="column is-2"></div>
@@ -145,7 +145,7 @@ import React from 'react';
                         </div>
                     </section>
                                
-                    <section className="hero is-small is-bold">
+                    <section className="hero is-medium is-bold">
                         <div className="hero-body">
                             <div className="columns is-vcentered">
                             <div className="column is-2"></div>

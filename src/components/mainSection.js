@@ -44,27 +44,28 @@ import FifthSection from './FifthSection';
                     </div>
                 </div>
 
-                <div className="columns secondSection">
-                    <div className="column is-half">
-                        <section className="hero medium">
-                            <div className="hero-body secondSectionText">
-                                <div className="container">
-                                <h1 className="title is-1">
-                                    Everything you need
-                                </h1>
-                                <h2 className="subtitle is-3">
-                                    On the palm of your hand
-                                </h2>
-                                </div>
+                <section className="hero is-small is-bold">
+                    <div className="hero-body">
+                        <div className="columns is-vcentered">
+                        <div className="column is-2"></div>
+                            <div className="column">
+                            <h1 className="title is-1">
+                                Everything you need
+                            </h1>
+                            <h2 className="subtitle is-3">
+                                On the palm of your hand
+                            </h2>
                             </div>
-                        </section>
+                        <div className="column">
+                            <figure className="image is-16by9">
+                                <img className="SecondSectionImage"/>
+                            </figure>
+                            
+                            </div>
+                        <div className="column is-1"></div>
+                        </div>
                     </div>
-                    <div className="column secondSectionRight">
-                        <figure className="image is-16by9">
-                            <img className="SecondSectionImage"/>
-                        </figure>
-                    </div>
-                </div>
+                </section>
 
                 <ThirdSection/>       
 
