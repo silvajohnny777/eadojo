@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6138dd24dbdf09a7149e1ce9990f3627",
+    "revision": "b5b8ed9a5bfdda75369051f8faad420a",
     "url": "/eadojo/index.html"
   },
   {
-    "revision": "247e4b564b2835bad8da",
+    "revision": "083dd7aa334d254cc104",
     "url": "/eadojo/static/css/main.98c59353.chunk.css"
   },
   {
-    "revision": "5c66f858e902761093c8",
-    "url": "/eadojo/static/js/2.4e581d04.chunk.js"
+    "revision": "444761914570785d8f66",
+    "url": "/eadojo/static/js/2.e18d420d.chunk.js"
   },
   {
-    "revision": "247e4b564b2835bad8da",
-    "url": "/eadojo/static/js/main.9ef36153.chunk.js"
+    "revision": "083dd7aa334d254cc104",
+    "url": "/eadojo/static/js/main.640188b8.chunk.js"
   },
   {
     "revision": "45329a70ec837dc2e0fb",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7612beb0f2ef206b942636b62b3d75a",
     "url": "/eadojo/static/media/chat.f7612beb.png"
+  },
+  {
+    "revision": "461620e1bde86fa7cef58c7895efb228",
+    "url": "/eadojo/static/media/customizable.461620e1.jpeg"
   },
   {
     "revision": "46914b933157dded8d356975bb6bc476",
