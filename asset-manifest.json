@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eadojo/static/css/main.98c59353.chunk.css",
-    "main.js": "/eadojo/static/js/main.640188b8.chunk.js",
-    "main.js.map": "/eadojo/static/js/main.640188b8.chunk.js.map",
+    "main.js": "/eadojo/static/js/main.ad0a25a4.chunk.js",
+    "main.js.map": "/eadojo/static/js/main.ad0a25a4.chunk.js.map",
     "runtime~main.js": "/eadojo/static/js/runtime~main.56e6157f.js",
     "runtime~main.js.map": "/eadojo/static/js/runtime~main.56e6157f.js.map",
     "static/js/2.e18d420d.chunk.js": "/eadojo/static/js/2.e18d420d.chunk.js",
     "static/js/2.e18d420d.chunk.js.map": "/eadojo/static/js/2.e18d420d.chunk.js.map",
     "index.html": "/eadojo/index.html",
-    "precache-manifest.02a03264286d4dc0e607881a7c404cb4.js": "/eadojo/precache-manifest.02a03264286d4dc0e607881a7c404cb4.js",
+    "precache-manifest.b934f9a4dbcdc7e3dbe078ad272a3bfd.js": "/eadojo/precache-manifest.b934f9a4dbcdc7e3dbe078ad272a3bfd.js",
     "service-worker.js": "/eadojo/service-worker.js",
     "static/css/main.98c59353.chunk.css.map": "/eadojo/static/css/main.98c59353.chunk.css.map",
     "static/media/chat.png": "/eadojo/static/media/chat.f7612beb.png",
