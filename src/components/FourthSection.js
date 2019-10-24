@@ -105,7 +105,7 @@ import React from 'react';
                     <section className="hero is-medium is-bold">
                         <div className="hero-body">
                             <div className="columns is-vcentered">
-                            <div className="column is-2"></div>
+                            <div className="column is-1"></div>
                                 <div className="column">
                                     <figure className="image is-16by9">
                                         <img className="ThirdSectionImage" src={require('../images/header.svg')} alt="Feature1"/>
@@ -140,7 +140,7 @@ import React from 'react';
                                     </figure>
                                 
                                 </div>
-                            <div className="column is-2"></div>
+                            <div className="column is-1"></div>
                             </div>
                         </div>
                     </section>
@@ -148,7 +148,7 @@ import React from 'react';
                     <section className="hero is-medium is-bold">
                         <div className="hero-body">
                             <div className="columns is-vcentered">
-                            <div className="column is-2"></div>
+                            <div className="column is-1"></div>
                                 <div className="column">
                                     <figure className="image is-16by9">
                                         <img className="ThirdSectionImage" src={require('../images/peopleUsingPc.svg')} alt="Feature1"/>
