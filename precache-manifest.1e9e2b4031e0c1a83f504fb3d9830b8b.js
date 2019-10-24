@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61c7a9d877eb39f4868cda74ebd06b20",
+    "revision": "c29f12c018f85b545e989bd2a1cdf02d",
     "url": "/eadojo/index.html"
   },
   {
-    "revision": "34966e224ea648ac4e29",
+    "revision": "d7954b5367942515b062",
     "url": "/eadojo/static/css/main.98c59353.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eadojo/static/js/2.e18d420d.chunk.js"
   },
   {
-    "revision": "34966e224ea648ac4e29",
-    "url": "/eadojo/static/js/main.ad0a25a4.chunk.js"
+    "revision": "d7954b5367942515b062",
+    "url": "/eadojo/static/js/main.3640df72.chunk.js"
   },
   {
     "revision": "45329a70ec837dc2e0fb",
@@ -36,24 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eadojo/static/media/dojo1.0dfe508c.jpg"
   },
   {
-    "revision": "ee81cc9937676631e78d3694e15e8688",
-    "url": "/eadojo/static/media/feature_1.ee81cc99.jpg"
+    "revision": "5ebb2cbc10abfb2d41430f3f56aef711",
+    "url": "/eadojo/static/media/feature_1.5ebb2cbc.jpg"
   },
   {
-    "revision": "b41ebcc0df7eb6484755e98204a9cd50",
-    "url": "/eadojo/static/media/feature_2.b41ebcc0.jpg"
+    "revision": "c7e745cbbf7bf1829dbb8feb524e2d0d",
+    "url": "/eadojo/static/media/feature_2.c7e745cb.jpg"
   },
   {
-    "revision": "1a15ff15d89310ad3e180d697ab362b5",
-    "url": "/eadojo/static/media/feature_3.1a15ff15.jpg"
+    "revision": "268bda7d370a768c54325676d2da5ad1",
+    "url": "/eadojo/static/media/feature_3.268bda7d.jpg"
   },
   {
-    "revision": "9779c8f505fdcc8ebee9dfb188e8312c",
-    "url": "/eadojo/static/media/feature_4.9779c8f5.jpg"
+    "revision": "addc8c6fb0334f564d5966b350a12e9b",
+    "url": "/eadojo/static/media/feature_4.addc8c6f.jpg"
   },
   {
-    "revision": "4aa49a22e1c0f8d8a2d42ab273928365",
-    "url": "/eadojo/static/media/feature_5.4aa49a22.jpg"
+    "revision": "6f178c0f78283d57ba513b132847eda6",
+    "url": "/eadojo/static/media/feature_5.6f178c0f.jpg"
   },
   {
     "revision": "e52e17043b4d2f8a5fdba2bff33812b6",
