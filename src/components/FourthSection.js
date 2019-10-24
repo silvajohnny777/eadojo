@@ -102,60 +102,65 @@ import React from 'react';
 
             return (
                 <div>             
-                    <section className="hero is-small is-bold fourthSection">
+                    <section className="hero is-small is-bold">
                         <div className="hero-body">
-                            <div className="columns">
-                                <div className="column fouthSectionLeft is-half">
+                            <div className="columns is-vcentered">
+                            <div className="column is-2"></div>
+                                <div className="column">
                                     <figure className="image is-16by9">
                                         <img className="ThirdSectionImage" src={require('../images/header.svg')} alt="Feature1"/>
                                     </figure>
                                 </div>
-                            <div className="column fouthSectionMiddle"><h1 className="title is-1">
+                            <div className="column"><h1 className="title is-1">
                                     Follow the information
                                 </h1>
-                                <h2 className="subtitle is-3 fouthSectionNewRight">
+                                <h2 className="subtitle is-3">
                                     Everything you need to know about your website is just a click away
                                 </h2></div>
+                            <div className="column is-2"></div>
                             </div>
                         </div>
                     </section>
 
-                    <section className="hero is-small is-bold fourthSection">
+                    <section className="hero is-small is-bold">
                         <div className="hero-body">
-                            <div className="columns">
-                                <div className="column fouthSectionMiddle is-half">
-                                <h1 className="title is-1 fouthSectionNewLeft">
+                            <div className="columns is-vcentered">
+                            <div className="column is-2"></div>
+                                <div className="column">
+                                <h1 className="title is-1">
                                     Fully customizable
                                 </h1>
-                                <h2 className="subtitle is-3 fouthSectionNewLeft">
+                                <h2 className="subtitle is-3">
                                     You can literally change the entire look of your website
                                 </h2>
                                 </div>
                             <div className="column">
-                                <figure className="image is-16by9">
-                                    <img className="ThirdSectionImage" src={require('../images/customizable.jpeg')} alt="Feature2"/>
-                                </figure>
+                                    <figure className="image is-16by9">
+                                        <img className="ThirdSectionImage" src={require('../images/customizable.jpeg')} alt="Feature1"/>
+                                    </figure>
                                 
-                                
-                            </div>
+                                </div>
+                            <div className="column is-2"></div>
                             </div>
                         </div>
                     </section>
-                    
-                    <section className="hero is-small is-bold fourthSection">
+                               
+                    <section className="hero is-small is-bold">
                         <div className="hero-body">
-                            <div className="columns">
-                                <div className="column fouthSectionLeft is-half">
+                            <div className="columns is-vcentered">
+                            <div className="column is-2"></div>
+                                <div className="column">
                                     <figure className="image is-16by9">
-                                        <img className="ThirdSectionImage" src={require('../images/peopleUsingPc.svg')} alt="Feature3"/>
+                                        <img className="ThirdSectionImage" src={require('../images/peopleUsingPc.svg')} alt="Feature1"/>
                                     </figure>
                                 </div>
-                            <div className="column fouthSectionMiddle"><h1 className="title is-1">
+                            <div className="column"><h1 className="title is-1">
                                     Also made for your business
                                 </h1>
-                                <h2 className="subtitle is-3 fouthSectionNewRight">
+                                <h2 className="subtitle is-3">
                                     Easier, faster and better than any other service
                                 </h2></div>
+                            <div className="column is-2"></div>
                             </div>
                         </div>
                     </section>
