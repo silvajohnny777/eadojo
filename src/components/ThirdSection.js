@@ -73,18 +73,18 @@ import React from 'react';
                         <br/>
 
                         <div className="content ThirdSectionButtonsArea">
-                            <button className={this.state.title == 'Students' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="0">Students</button>
-                            <button className={this.state.title == 'Website' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="1">Website</button>
-                            <button className={this.state.title == 'Courses' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="2">Courses</button>
-                            <button className={this.state.title == 'Emails' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="3">Emails</button>
-                            <button className={this.state.title == 'Logs' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="4">Logs</button>
+                            <button className={this.state.title === 'Students' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="0">Students</button>
+                            <button className={this.state.title === 'Website' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="1">Website</button>
+                            <button className={this.state.title === 'Courses' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="2">Courses</button>
+                            <button className={this.state.title === 'Emails' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="3">Emails</button>
+                            <button className={this.state.title === 'Logs' ? "button ThirdSectionButton ThirdSectionButtonActive title is-5" : "button ThirdSectionButton title is-5"} onMouseEnter={this.handleMouseEnter} value="4">Logs</button>
 
-                            <div class="columns FeaturesDescription has-text-centered">
-                                <div class="column"><span className="FeaturesDescriptionText">{this.state.title == 'Students' ? this.state.description : ''}</span></div>
-                                <div class="column"><span className="FeaturesDescriptionText">{this.state.title == 'Website' ? this.state.description : ''}</span></div>
-                                <div class="column"><span className="FeaturesDescriptionText">{this.state.title == 'Courses' ? this.state.description : ''}</span></div>
-                                <div class="column"><span className="FeaturesDescriptionText">{this.state.title == 'Emails' ? this.state.description : ''}</span></div>
-                                <div class="column"><span className="FeaturesDescriptionText">{this.state.title == 'Logs' ? this.state.description : ''}</span></div>
+                            <div className="columns FeaturesDescription has-text-centered">
+                                <div className="column"><span className="FeaturesDescriptionText">{this.state.title === 'Students' ? this.state.description : ''}</span></div>
+                                <div className="column"><span className="FeaturesDescriptionText">{this.state.title === 'Website' ? this.state.description : ''}</span></div>
+                                <div className="column"><span className="FeaturesDescriptionText">{this.state.title === 'Courses' ? this.state.description : ''}</span></div>
+                                <div className="column"><span className="FeaturesDescriptionText">{this.state.title === 'Emails' ? this.state.description : ''}</span></div>
+                                <div className="column"><span className="FeaturesDescriptionText">{this.state.title === 'Logs' ? this.state.description : ''}</span></div>
                             </div>
 
                         </div>

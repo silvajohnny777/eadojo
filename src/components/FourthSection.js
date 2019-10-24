@@ -107,7 +107,7 @@ import React from 'react';
                             <div className="columns">
                                 <div className="column fouthSectionLeft is-half">
                                     <figure className="image is-16by9">
-                                        <img className="ThirdSectionImage" src={require('../images/header.svg')} />
+                                        <img className="ThirdSectionImage" src={require('../images/header.svg')} alt="Feature1"/>
                                     </figure>
                                 </div>
                             <div className="column fouthSectionMiddle"><h1 className="title is-1">
@@ -125,19 +125,19 @@ import React from 'react';
                             <div className="columns">
                                 <div className="column fouthSectionMiddle is-half">
                                 <h1 className="title is-1 fouthSectionNewLeft">
-                                    We are accessible
+                                    Fully customizable
                                 </h1>
                                 <h2 className="subtitle is-3 fouthSectionNewLeft">
-                                    Check how things are going from anywhere
+                                    You can literally change the entire look of your website
                                 </h2>
                                 </div>
                             <div className="column">
                                 <figure className="image is-16by9">
-                                    <img className="ThirdSectionImage" src={require('../images/mobile.svg')} />
+                                    <img className="ThirdSectionImage" src={require('../images/customizable.jpeg')} alt="Feature2"/>
                                 </figure>
                                 
                                 
-                               </div>
+                            </div>
                             </div>
                         </div>
                     </section>
@@ -147,7 +147,7 @@ import React from 'react';
                             <div className="columns">
                                 <div className="column fouthSectionLeft is-half">
                                     <figure className="image is-16by9">
-                                        <img className="ThirdSectionImage" src={require('../images/peopleUsingPc.svg')} />
+                                        <img className="ThirdSectionImage" src={require('../images/peopleUsingPc.svg')} alt="Feature3"/>
                                     </figure>
                                 </div>
                             <div className="column fouthSectionMiddle"><h1 className="title is-1">

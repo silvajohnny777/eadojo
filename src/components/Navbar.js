@@ -7,7 +7,7 @@ import { NavLink } from "react-router-dom";
                 <nav className="navbar has-shadow is-fixed-top" role="navigation" aria-label="main navigation">
                     <div className="navbar-brand">
                         <NavLink to="./" className="navbar-item">
-                        <h2>EADOJO</h2>
+                        <img src={require('../images/logo.png')} />
                         </NavLink>
                     </div>
 
